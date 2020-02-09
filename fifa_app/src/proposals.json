@@ -1,0 +1,82 @@
+[
+  {
+    "id": 0,
+    "name": "Goalkeeper: Alisson Becker",
+    "picture": "images/alisson.png"
+  },
+  {
+    "id": 1,
+    "name": "Goalkeeper: David De Gea",
+    "picture": "images/ddg.png"
+  },
+  {
+    "id": 2,
+    "name": "Goalkeeper: Jan Oblak",
+    "picture": "images/oblak.png"
+  },
+  {
+    "id": 3,
+    "name": "Goalkeeper: Manuel Neuer",
+    "picture": "images/neuer.png"
+  },
+  {
+    "id": 4,
+    "name": "Defender: Virgil Van Dijk",
+    "picture": "images/vvd.png"
+  },
+  {
+    "id": 5,
+    "name": "Defender: Sergio Ramos",
+    "picture": "images/ramos.png"
+  },
+  {
+    "id": 6,
+    "name": "Defender: Kalidou Koulibaly",
+    "picture": "images/koulibaly.png"
+  },
+  {
+    "id": 7,
+    "name": "Defender: Aymeric Laporte",
+    "picture": "images/laporte.png"
+  },
+  {
+    "id": 8,
+    "name": "Midfielder: Luka Modric",
+    "picture": "images/modric.png"
+  },
+  {
+    "id": 9,
+    "name": "Midfielder: Thiago Alcantara",
+    "picture": "images/thiago.png"
+  },
+  {
+    "id": 10,
+    "name": "Midfielder: Kevin De Bruyne",
+    "picture": "images/kdb.png"
+  },
+  {
+    "id": 11,
+    "name": "Midfielder: Gini Wijnaldum",
+    "picture": "images/gini.png"
+  },
+  {
+    "id": 12,
+    "name": "Forward: Mohammad Salah",
+    "picture": "images/salah.png"
+  },
+  {
+    "id": 13,
+    "name": "Forward: Lionel Messi",
+    "picture": "images/messi.png"
+  },
+  {
+    "id": 14,
+    "name": "Forward: Leroy Sane",
+    "picture": "images/sane.png"
+  },
+  {
+    "id": 15,
+    "name": "Forward: Robert Lewandowski",
+    "picture": "images/lewandowski.png"
+  }
+]
